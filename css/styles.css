@@ -78,7 +78,7 @@ p {
 @media(min-width: 1200) {
 
    .jumbotron {
-   	  src:"images/restaurant-1400";
+   	  background: url("/images/restaurant-1400") no-repeat;
    	  height: 676px;
 
    }
